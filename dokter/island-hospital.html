@@ -1,0 +1,170 @@
+<!doctype html>
+<html lang="id">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>
+      Direktori Dokter | Island Hospital Penang | Pendampingan Pasien Penang
+    </title>
+    <meta
+      name="description"
+      content="Direktori informasi dokter untuk referensi pasien. Layanan Pendampingan Pasien Penang bersifat independen dan tidak berafiliasi dengan rumah sakit atau dokter yang tercantum."
+    />
+    <link rel="stylesheet" href="../assets/style.css" />
+  </head>
+  <body>
+    <header class="header">
+      <div class="container nav">
+        <a class="logo" href="../index.html" aria-label="Beranda"
+          ><img
+            class="logo-img"
+            src="../img/Logo pendampingan pasien penang.png"
+            alt="Logo Pendampingan Pasien Penang"
+          /><span>Pendampingan Pasien Penang</span></a
+        >
+        <nav class="nav-links" id="nav-menu" aria-label="Navigasi utama">
+          <a href="../index.html">Beranda</a
+          ><a href="../tentang-kami.html">Tentang Kami</a
+          ><a href="../layanan-tujuan.html">Layanan &amp; Tujuan</a
+          ><a href="../hubungi-kami.html">Hubungi Kami</a>
+        </nav>
+        <a class="btn btn-primary" data-whatsapp href="#"
+          >Konsultasi via WhatsApp</a
+        >
+        <button
+          class="btn btn-secondary mobile-menu"
+          type="button"
+          aria-expanded="false"
+          aria-controls="nav-menu"
+          id="menu-toggle"
+        >
+          Menu
+        </button>
+      </div>
+    </header>
+    <main>
+      <section class="doctor-page-hero">
+        <div class="container">
+          <div class="doctor-breadcrumb">
+            <a href="../layanan-tujuan.html">Layanan &amp; Tujuan</a> /
+            Direktori Dokter
+          </div>
+          <span class="eyebrow">Direktori Dokter</span>
+          <h1>Island Hospital Penang</h1>
+          <p class="lead">
+            Informasi dokter disajikan sebagai referensi bagi pasien dan
+            keluarga. Silakan konfirmasi nama, jadwal praktik, layanan, dan
+            ketersediaan langsung kepada pihak terkait.
+          </p>
+        </div>
+      </section>
+      <section class="doctor-toolbar">
+        <div class="container">
+          <div class="doctor-filters">
+            <input
+              id="doctor-search"
+              type="search"
+              placeholder="Cari nama dokter atau spesialisasi…"
+              aria-label="Cari dokter"
+            /><select id="doctor-specialty" aria-label="Filter spesialisasi">
+              <option>Memuat…</option>
+            </select>
+          </div>
+        </div>
+      </section>
+      <section id="doctor-directory" data-hospital="island">
+        <div class="container">
+          <p class="doctor-count" id="doctor-count">Memuat direktori…</p>
+          <div class="doctor-grid" id="doctor-grid"></div>
+          <div class="doctor-disclaimer">
+            <strong>Disclaimer independensi:</strong> Website ini adalah layanan
+            pendampingan independen. Direktori ini bukan daftar dokter milik
+            kami, bukan bentuk afiliasi/kemitraan, dan bukan rekomendasi medis.
+          </div>
+        </div>
+      </section>
+      <div
+        class="doctor-modal"
+        id="doctor-modal"
+        role="dialog"
+        aria-modal="true"
+        aria-labelledby="doctor-modal-name"
+      >
+        <div class="doctor-modal-box">
+          <button
+            class="doctor-modal-close"
+            id="doctor-modal-close"
+            type="button"
+            aria-label="Tutup"
+          >
+            ×</button
+          ><span class="eyebrow">Profil referensi</span>
+          <div id="doctor-modal-avatar" class="doctor-avatar"></div>
+          <h2 id="doctor-modal-name"></h2>
+          <div class="doctor-specialty" id="doctor-modal-specialty"></div>
+          <p>
+            <span class="doctor-modal-label">Rumah sakit</span><br /><span
+              id="doctor-modal-hospital"
+            ></span>
+          </p>
+          <p>
+            <span class="doctor-modal-label">Kualifikasi</span><br /><span
+              id="doctor-modal-qualification"
+            ></span>
+          </p>
+          <p class="doctor-modal-profile" id="doctor-modal-profile"></p>
+          <a class="btn btn-primary" data-whatsapp href="#"
+            >Konsultasi via WhatsApp</a
+          >
+        </div>
+      </div>
+    </main>
+    <footer class="footer">
+      <div class="container footer-grid">
+        <div>
+          <div class="logo" style="color: white">
+            <img
+              class="logo-img"
+              src="../img/Logo pendampingan pasien penang.png"
+              alt="Logo Pendampingan Pasien Penang"
+            /><span>Pendampingan Pasien Penang</span>
+          </div>
+          <p style="max-width: 600px; margin: 15px 0 10px">
+            Layanan independen untuk membantu pasien dan keluarga Indonesia
+            mempersiapkan perjalanan pengobatan ke Penang secara lebih terarah.
+          </p>
+          <small
+            >Layanan ini independen dan bukan rumah sakit, bukan bagian dari
+            rumah sakit, serta tidak mengklaim afiliasi resmi atau kemitraan
+            dengan rumah sakit tujuan.</small
+          >
+        </div>
+        <div>
+          <div class="footer-links">
+            <a href="../kebijakan-privasi.html">Kebijakan Privasi</a
+            ><a data-whatsapp href="#">Konsultasi via WhatsApp</a>
+          </div>
+        </div>
+      </div>
+      <div
+        class="container"
+        style="
+          margin-top: 26px;
+          border-top: 1px solid rgba(255, 255, 255, 0.12);
+          padding-top: 18px;
+        "
+      >
+        <small
+          >© <span data-year></span> Pendampingan Pasien Penang. Informasi
+          bersifat umum dan bukan nasihat medis.</small
+        >
+      </div>
+    </footer>
+    <div class="floating-wa">
+      <a class="btn btn-primary" data-whatsapp href="#"
+        >Konsultasi via WhatsApp</a
+      >
+    </div>
+    <script src="../assets/script.js"></script>
+  </body>
+</html>
