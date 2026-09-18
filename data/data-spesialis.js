@@ -1,5 +1,3 @@
-// Simpan di: Pendampingan Pasien Penang/data/data-spesialis.js
-
 const dataSpesialisDokter = [
   {
     id: "jantung",
