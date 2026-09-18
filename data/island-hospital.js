@@ -125,7 +125,7 @@ window.DOCTORS = [
   {
     id: "island-015",
     name: "Dr. Adrian Chan Soon Eng",
-    specialty: "Mata",
+    specialty: "Spesialis Mata",
     hospital: "Island Hospital Penang",
     qualification:
       "MBBCh, BAO (Ire), FRCS Ophth (Edin), MMed (Ophth) (S’pore), MSurg (Ophth) (UKM)",
@@ -134,7 +134,7 @@ window.DOCTORS = [
   {
     id: "island-016",
     name: "Dr. Andrew Lim Keat Eu",
-    specialty: "Mata",
+    specialty: "Spesialis Mata",
     hospital: "Island Hospital Penang",
     qualification:
       "MBBS Hons (Melb), FRCS (Glasg), MMed (Ophth) (USM), Fellowship in in Vitreoretinal Surgery (Sydney), FADUSM, AM",
@@ -143,7 +143,7 @@ window.DOCTORS = [
   {
     id: "island-017",
     name: "Dr. Christine Ong Pei Yee",
-    specialty: "Mata",
+    specialty: "Spesialis Mata",
     hospital: "Island Hospital Penang",
     qualification: "MBBS (AIMST), MOphthal (Mal), CMIA (NIOSH)",
     foto: "../img/Island-doctors/dr--christine-ong-pei-yee.png",
@@ -151,7 +151,7 @@ window.DOCTORS = [
   {
     id: "island-018",
     name: "Dr. Vanessa Naseem Neoh",
-    specialty: "Mata",
+    specialty: "Spesialis Mata",
     hospital: "Island Hospital Penang",
     qualification:
       "MBBS (India), FRCS Ophth (Glasg), Fellowship in Oculoplastic & Orbital Surgery (Holland, Singapore, Malaysia), AM",
@@ -268,7 +268,7 @@ window.DOCTORS = [
   {
     id: "island-032",
     name: "Dr. (PKT, DJN) Dan Giap Liang",
-    specialty: "Anak",
+    specialty: "Spesialiis Anak",
     hospital: "Island Hospital Penang",
     qualification: "MBBS (Mal), MRCP (UK), DCH (Glasg), FAMM",
     foto: "../img/Island-doctors/dr--dan-giap-liang.png",
@@ -276,7 +276,7 @@ window.DOCTORS = [
   {
     id: "island-033",
     name: "Dr. Ho Sheau Chui",
-    specialty: "Anak",
+    specialty: "Spesialiis Anak",
     hospital: "Island Hospital Penang",
     qualification:
       "MBChB (Hons) (Glasgow), MRCPCH (UK), MSc (Diabetes) (UK), CCT (General Paediatrics)",
@@ -285,7 +285,7 @@ window.DOCTORS = [
   {
     id: "island-034",
     name: "Dr. Hwang Yee Chern",
-    specialty: "Anak",
+    specialty: "Spesialiis Anak",
     hospital: "Island Hospital Penang",
     qualification:
       "BA, MBBCh, BAO (Ire), LMSSA (Lond), DCH (Lond), MRCP (UK), DTM&H (Liv)",
@@ -294,7 +294,7 @@ window.DOCTORS = [
   {
     id: "island-035",
     name: "Dr. Koh Chong Tuan",
-    specialty: "Anak",
+    specialty: "Spesialiis Anak",
     hospital: "Island Hospital Penang",
     qualification: "MBBS (Mal), FRCP (Lond), FRCP (Glasg), DCH (Lond), AM",
     foto: "../img/Island-doctors/dr--koh-chong-tuan.png",
@@ -302,7 +302,7 @@ window.DOCTORS = [
   {
     id: "island-036",
     name: "Dr. Priscilla Ooi Sze Kee",
-    specialty: "Anak",
+    specialty: "Spesialiis Anak",
     hospital: "Island Hospital Penang",
     qualification:
       "MB ChB (Aberdeen), MRCPCH(UK), FRCPCH(UK), Master’s Degree (MSc) in Allergy (UK)",
@@ -311,7 +311,7 @@ window.DOCTORS = [
   {
     id: "island-037",
     name: "Dr. Tan Pek Yong",
-    specialty: "Anak",
+    specialty: "Spesialiis Anak",
     hospital: "Island Hospital Penang",
     qualification: "MBBS (IMU), MRCPCH (UK), FRCP (Edin)",
     foto: "../img/Island-doctors/dr--tan-pek-yong.png",
