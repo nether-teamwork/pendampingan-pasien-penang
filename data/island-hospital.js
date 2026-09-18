@@ -125,7 +125,7 @@ window.DOCTORS = [
   {
     id: "island-015",
     name: "Dr. Adrian Chan Soon Eng",
-    specialty: "Oftalmologi",
+    specialty: "Mata",
     hospital: "Island Hospital Penang",
     qualification:
       "MBBCh, BAO (Ire), FRCS Ophth (Edin), MMed (Ophth) (S’pore), MSurg (Ophth) (UKM)",
@@ -134,7 +134,7 @@ window.DOCTORS = [
   {
     id: "island-016",
     name: "Dr. Andrew Lim Keat Eu",
-    specialty: "Oftalmologi",
+    specialty: "Mata",
     hospital: "Island Hospital Penang",
     qualification:
       "MBBS Hons (Melb), FRCS (Glasg), MMed (Ophth) (USM), Fellowship in in Vitreoretinal Surgery (Sydney), FADUSM, AM",
@@ -143,7 +143,7 @@ window.DOCTORS = [
   {
     id: "island-017",
     name: "Dr. Christine Ong Pei Yee",
-    specialty: "Oftalmologi",
+    specialty: "Mata",
     hospital: "Island Hospital Penang",
     qualification: "MBBS (AIMST), MOphthal (Mal), CMIA (NIOSH)",
     foto: "../img/Island-doctors/dr--christine-ong-pei-yee.png",
@@ -151,7 +151,7 @@ window.DOCTORS = [
   {
     id: "island-018",
     name: "Dr. Vanessa Naseem Neoh",
-    specialty: "Oftalmologi",
+    specialty: "Mata",
     hospital: "Island Hospital Penang",
     qualification:
       "MBBS (India), FRCS Ophth (Glasg), Fellowship in Oculoplastic & Orbital Surgery (Holland, Singapore, Malaysia), AM",
@@ -227,7 +227,7 @@ window.DOCTORS = [
   {
     id: "island-027",
     name: "Dr. Ang Tick Suan",
-    specialty: "Onkologi Klinis",
+    specialty: "Kanker & Terapi Radiasi (Onkologi Klinis)",
     hospital: "Island Hospital Penang",
     qualification:
       "MBBS (Mal), Master of Clinical Oncology (UM), Cert in Genetics & Genomics (Stanford, USA), Stereotactic Radiosurgery Training (Thailand, Korea, USA), Fellowship in Stereotactic Radiosurgery & Stereotactic Ablative Radiotherapy (Korea)",
@@ -236,7 +236,7 @@ window.DOCTORS = [
   {
     id: "island-028",
     name: "Dato' Seri Dr. (DGPN, DSPN, PJK) (Icon) Mohamed Amir Shah",
-    specialty: "Onkologi Klinis",
+    specialty: "Kanker & Terapi Radiasi (Onkologi Klinis)",
     hospital: "Island Hospital Penang",
     qualification: "MBChB (UK), FRCR (UK), FFR RCS (Ire), AM",
     foto: "../img/Island-doctors/dato'-seri-dr--mohamed-amir-shah.png",
@@ -244,7 +244,7 @@ window.DOCTORS = [
   {
     id: "island-029",
     name: "Dr. (Icon) Ooi Kai Yun",
-    specialty: "Onkologi Klinis",
+    specialty: "Kanker & Terapi Radiasi (Onkologi Klinis)",
     hospital: "Island Hospital Penang",
     qualification: "MBBS (UM, Malaysia), FRCR (UK)",
     foto: "../img/Island-doctors/dr--ooi-kai-yun.png",
@@ -252,7 +252,7 @@ window.DOCTORS = [
   {
     id: "island-030",
     name: "Dr. Tang Weng Heng",
-    specialty: "Onkologi Klinis",
+    specialty: "Kanker & Terapi Radiasi (Onkologi Klinis)",
     hospital: "Island Hospital Penang",
     qualification: "MBBS (Mal), Master of Clinical Oncology (UM)",
     foto: "../img/Island-doctors/dr--tang-weng-heng.png",
@@ -260,7 +260,7 @@ window.DOCTORS = [
   {
     id: "island-031",
     name: "Dr. Boon Kah Ying",
-    specialty: "Medical Microbiology",
+    specialty: "Kuman & Infeksi (Mikrobiologi Klinik)",
     hospital: "Island Hospital Penang",
     qualification: "MD (USM), M Pathology (Mal)",
     foto: "../img/Island-doctors/dr--boon-kah-ying.png",
@@ -268,7 +268,7 @@ window.DOCTORS = [
   {
     id: "island-032",
     name: "Dr. (PKT, DJN) Dan Giap Liang",
-    specialty: "Pediatri Umum",
+    specialty: "Anak",
     hospital: "Island Hospital Penang",
     qualification: "MBBS (Mal), MRCP (UK), DCH (Glasg), FAMM",
     foto: "../img/Island-doctors/dr--dan-giap-liang.png",
@@ -276,7 +276,7 @@ window.DOCTORS = [
   {
     id: "island-033",
     name: "Dr. Ho Sheau Chui",
-    specialty: "Pediatri Umum",
+    specialty: "Anak",
     hospital: "Island Hospital Penang",
     qualification:
       "MBChB (Hons) (Glasgow), MRCPCH (UK), MSc (Diabetes) (UK), CCT (General Paediatrics)",
@@ -285,7 +285,7 @@ window.DOCTORS = [
   {
     id: "island-034",
     name: "Dr. Hwang Yee Chern",
-    specialty: "Pediatri Umum",
+    specialty: "Anak",
     hospital: "Island Hospital Penang",
     qualification:
       "BA, MBBCh, BAO (Ire), LMSSA (Lond), DCH (Lond), MRCP (UK), DTM&H (Liv)",
@@ -294,7 +294,7 @@ window.DOCTORS = [
   {
     id: "island-035",
     name: "Dr. Koh Chong Tuan",
-    specialty: "Pediatri Umum",
+    specialty: "Anak",
     hospital: "Island Hospital Penang",
     qualification: "MBBS (Mal), FRCP (Lond), FRCP (Glasg), DCH (Lond), AM",
     foto: "../img/Island-doctors/dr--koh-chong-tuan.png",
@@ -302,7 +302,7 @@ window.DOCTORS = [
   {
     id: "island-036",
     name: "Dr. Priscilla Ooi Sze Kee",
-    specialty: "Pediatri Umum",
+    specialty: "Anak",
     hospital: "Island Hospital Penang",
     qualification:
       "MB ChB (Aberdeen), MRCPCH(UK), FRCPCH(UK), Master’s Degree (MSc) in Allergy (UK)",
@@ -311,7 +311,7 @@ window.DOCTORS = [
   {
     id: "island-037",
     name: "Dr. Tan Pek Yong",
-    specialty: "Pediatri Umum",
+    specialty: "Anak",
     hospital: "Island Hospital Penang",
     qualification: "MBBS (IMU), MRCPCH (UK), FRCP (Edin)",
     foto: "../img/Island-doctors/dr--tan-pek-yong.png",
@@ -361,7 +361,7 @@ window.DOCTORS = [
   {
     id: "island-043",
     name: "Dr. Cheah Seong Keat",
-    specialty: "Endokrinologi, Penyakit Dalam",
+    specialty: "Penyakit Dalam & Hormon",
     hospital: "Island Hospital Penang",
     qualification:
       "LRCP&SI, MBBChBAO(Hons) (NUI), MRCP (UK), FRCP (Edin), CCT (Endocrinology & Diabetes)",
@@ -370,7 +370,7 @@ window.DOCTORS = [
   {
     id: "island-044",
     name: "Dato' Dr. (DSPN) Malik Mumtaz",
-    specialty: "Endokrinologi, Penyakit Dalam",
+    specialty: "Penyakit Dalam & Hormon",
     hospital: "Island Hospital Penang",
     qualification:
       "MD (USM), MRCP (UK), FRCP (Edin), FRCP (Glasg), Fellowship in Nuclear Medicine (Glasg), AM",
@@ -379,7 +379,7 @@ window.DOCTORS = [
   {
     id: "island-045",
     name: "Dr. Chenthilnathan Periasamy",
-    specialty: "Telinga, Hidung, dan Tenggorokan",
+    specialty: "THT (Telinga, Hidung, dan Tenggorokan)",
     hospital: "Island Hospital Penang",
     qualification:
       "MBBS (Bangalore), MMed Otorhinolaryngology – Head and Neck Surgery (USM),AM, FAAO-HNS (USA), CMIA (NIOSH), Subspecialty in Rhinology (Austria) and Skullbase (Italy & Trichy)",
@@ -388,7 +388,7 @@ window.DOCTORS = [
   {
     id: "island-046",
     name: "Dr. Gan Boon Chye",
-    specialty: "Telinga, Hidung, dan Tenggorokan",
+    specialty: "THT (Telinga, Hidung, dan Tenggorokan)",
     hospital: "Island Hospital Penang",
     qualification:
       "MD (RSMU), MMed Otorhinolaryngology – Head and Neck Surgery (USM), CMIA (NIOSH), RPSGT & CCSH (BRPT, USA), AM, FAAO-HNS (USA), FICS (USA), Fellow of the American College of Surgeons",
@@ -397,7 +397,7 @@ window.DOCTORS = [
   {
     id: "island-047",
     name: "Dr. Victor Ooi Keat Jin",
-    specialty: "Telinga, Hidung, dan Tenggorokan",
+    specialty: "THT (Telinga, Hidung, dan Tenggorokan)",
     hospital: "Island Hospital Penang",
     qualification:
       "MBBS (Mal), MMed Otorhinolaryngology-Head & Neck Surgery (Mal), MRCS (I) (UK)",
@@ -415,7 +415,7 @@ window.DOCTORS = [
   {
     id: "island-049",
     name: "Dr. Chiew Kean Shyong",
-    specialty: "Kardiologi",
+    specialty: "Jantung & Pembuluh Darah",
     hospital: "Island Hospital Penang",
     qualification: "MBBS (Mal), MRCP (UK), FRCP (Edin), FNHAM, AM",
     foto: "../img/Island-doctors/dr--chiew-kean-shyong.png",
@@ -423,7 +423,7 @@ window.DOCTORS = [
   {
     id: "island-050",
     name: "Dr. (SMJ) Chong Chu Ling",
-    specialty: "Kardiologi",
+    specialty: "Jantung & Pembuluh Darah",
     hospital: "Island Hospital Penang",
     qualification:
       "MBBCh, BAO (Ire), MRCP (Ire), MSc (Cardiology) (Ire), FNHAM",
@@ -432,7 +432,7 @@ window.DOCTORS = [
   {
     id: "island-051",
     name: "Dr. Lee Tjen Jhung",
-    specialty: "Kardiologi",
+    specialty: "Jantung & Pembuluh Darah",
     hospital: "Island Hospital Penang",
     qualification:
       "MD (FMSMU), MRCP(UK), FRCP (Edin), EECC, EAPCI, SCCT, BSCI, CCDS, AM",
@@ -441,7 +441,7 @@ window.DOCTORS = [
   {
     id: "island-052",
     name: "Dr. Ma Soot Keng",
-    specialty: "Kardiologi",
+    specialty: "Jantung & Pembuluh Darah",
     hospital: "Island Hospital Penang",
     qualification: "MD (UKM), MRCP(UK), FNHAM, FAsCC, FHRS, CCDS, CEPS",
     foto: "../img/Island-doctors/dr--ma-soot-keng.png",
@@ -449,7 +449,7 @@ window.DOCTORS = [
   {
     id: "island-053",
     name: "Dr. Yeoh Joon Kuan ",
-    specialty: "Kardiologi",
+    specialty: "Jantung & Pembuluh Darah",
     hospital: "Island Hospital Penang",
     qualification: "MBBS (Mal), MRCP (UK), MMed (S’pore), FAMS (S’pore), AM",
     foto: "../img/Island-doctors/Dr--Yeoh-Joon-Kuan.png",
@@ -492,7 +492,7 @@ window.DOCTORS = [
   {
     id: "island-058",
     name: "Dr. Danny Ong Yu Chen",
-    specialty: "Penyakit Dalam, Nefrologi",
+    specialty: "Penyakit Dalam, Ginjal & Hipertensi",
     hospital: "Island Hospital Penang",
     qualification: "MD (VSMU), MRCP (UK), Fellowship in Nephrology (MOH), AM",
     foto: "../img/Island-doctors/Dr--Danny-Ong.png",
@@ -500,7 +500,7 @@ window.DOCTORS = [
   {
     id: "island-059",
     name: "Dr. Goh Huck Keen",
-    specialty: "Penyakit Dalam, Nefrologi",
+    specialty: "Penyakit Dalam, Ginjal & Hipertensi",
     hospital: "Island Hospital Penang",
     qualification:
       "MBBS (Mal), MRCP (UK), MMed (S’pore), FAMS (Renal Medicine) (S’pore), AM",
@@ -509,7 +509,7 @@ window.DOCTORS = [
   {
     id: "island-060",
     name: "Dr. Vijaya B. Ramasamy",
-    specialty: "Penyakit Dalam, Nefrologi",
+    specialty: "Penyakit Dalam, Ginjal & Hipertensi",
     hospital: "Island Hospital Penang",
     qualification:
       "MBChB (UK), MRCP (UK), SCE (Nephrology) (UK), FRCP (Lond), CCT (General Medicine & Nephrology) (UK)",
@@ -518,7 +518,7 @@ window.DOCTORS = [
   {
     id: "island-061",
     name: "Dr. Lem Li Khen",
-    specialty: "Penyakit Dalam, Pulmonologi",
+    specialty: "Penyakit Dalam, Paru & Pernapasan",
     hospital: "Island Hospital Penang",
     qualification:
       "MD (UKM), MMed (Int Med) (UKM), Fellowship in Respiratory Medicine (Malaysia)",
@@ -527,7 +527,7 @@ window.DOCTORS = [
   {
     id: "island-062",
     name: "Dr. Leow Chai Hooi",
-    specialty: "Penyakit Dalam, Pulmonologi",
+    specialty: "Penyakit Dalam, Paru & Pernapasan",
     hospital: "Island Hospital Penang",
     qualification: "MBBS (Mal), MRCP (UK), FRCP (Edin), AM",
     foto: "../img/Island-doctors/Dr--Leow-Chai-Hooi.png",
@@ -544,7 +544,7 @@ window.DOCTORS = [
   {
     id: "island-064",
     name: "Dr. Damian Wong Nye Woh",
-    specialty: "Gastroenterologi & Hepatologi",
+    specialty: "Lambung, Pencernaan, dan Hati",
     hospital: "Island Hospital Penang",
     qualification:
       "MBBS (Mal), MRCP (UK), FRCP (Glasg), FRCP (Edin), FRCP (Lond), FAMM",
@@ -553,7 +553,7 @@ window.DOCTORS = [
   {
     id: "island-065",
     name: "Dr. Doreen Koay Siew Ching",
-    specialty: "Gastroenterologi & Hepatologi",
+    specialty: "Lambung, Pencernaan, dan Hati",
     hospital: "Island Hospital Penang",
     qualification:
       "MBBCh, BAO (Ire), LRCP&SI, MRCP (UK), AST (Sin), Training in Adv Endoscopic Training (Japan), Fellowship in Adv Endoscopic Imaging & Endoscopic Resection (Aus)",
@@ -562,7 +562,7 @@ window.DOCTORS = [
   {
     id: "island-066",
     name: "Dr. Low Eng Joo",
-    specialty: "Gastroenterologi & Hepatologi",
+    specialty: "Lambung, Pencernaan, dan Hati",
     hospital: "Island Hospital Penang",
     qualification: "MBBS (Mal), MRCPI (Ire)",
     foto: "../img/Island-doctors/dr--low-eng-joo.png",
@@ -570,7 +570,7 @@ window.DOCTORS = [
   {
     id: "island-067",
     name: "Dr. Michael Ding Ju Wern",
-    specialty: "Gastroenterologi & Hepatologi",
+    specialty: "Lambung, Pencernaan, dan Hati",
     hospital: "Island Hospital Penang",
     qualification:
       "BSc. (Hons), MBBS (London), MRCP (UK), ESEGH, Fellowship in Advanced Endoscopy (Birmingham), Advanced Training Programme (Stoke), CCT (UK)",
@@ -579,7 +579,7 @@ window.DOCTORS = [
   {
     id: "island-068",
     name: "Dr. Mohamad Fadli Bin Abd Rahman",
-    specialty: "Gastroenterologi & Hepatologi",
+    specialty: "Lambung, Pencernaan, dan Hati",
     hospital: "Island Hospital Penang",
     qualification:
       "MD (UKM), MMed (UKM), Fellowship of Gastroenterology & Hepatology (MOH)",
@@ -588,7 +588,7 @@ window.DOCTORS = [
   {
     id: "island-069",
     name: "Dato' Dr. (DSPN, PMP, PKT) Robert Ding Pooi Huat",
-    specialty: "Gastroenterologi & Hepatologi",
+    specialty: "Lambung, Pencernaan, dan Hati",
     hospital: "Island Hospital Penang",
     qualification:
       "MBBCh, BAO (Ire), LRCP&SI, FRCP (Lond), MRCP (UK), FRCP (Edin), FRCP (Glasg), MACG (USA), FAMM",
@@ -606,7 +606,7 @@ window.DOCTORS = [
   {
     id: "island-071",
     name: "Dr. Devindran A/L Manoharan",
-    specialty: "Urologi",
+    specialty: "Saluran Kemih & Reproduksi Pria",
     hospital: "Island Hospital Penang",
     qualification:
       "MBBS (Manipal), MRCS (Ire), Malaysian Board of Urology Certified, FRCS (Urology) (Glasg), Fellowship in Uro-Oncology (Aus)",
@@ -615,7 +615,7 @@ window.DOCTORS = [
   {
     id: "island-072",
     name: "Dr. Khoo Say Chuan",
-    specialty: "Urologi",
+    specialty: "Saluran Kemih & Reproduksi Pria",
     hospital: "Island Hospital Penang",
     qualification:
       "MD (UNIMAS), MSurg (UKM), Malaysian Board of Urology Certified, FRCS (Urology) (Glasg), Fellowship in Urology (Aus)",
@@ -624,7 +624,7 @@ window.DOCTORS = [
   {
     id: "island-073",
     name: "Dr. S. Sritharan",
-    specialty: "Urologi",
+    specialty: "Saluran Kemih & Reproduksi Pria",
     hospital: "Island Hospital Penang",
     qualification:
       "B.Med.Sc MD (UKM), MMed (Surg) (S’pore), FRCS (Edin), Fellowship in Urology (Aus), AM",
@@ -633,7 +633,7 @@ window.DOCTORS = [
   {
     id: "island-074",
     name: "Dr. Eric Soh Boon Swee",
-    specialty: "Obstetri dan Ginekologi",
+    specialty: "Kebidanan dan Kandungan",
     hospital: "Island Hospital Penang",
     qualification: "MBBS (Mal), FRCOG (Lond), MMed (ObGyn) (Mal)",
     foto: "../img/Island-doctors/Dr--Eric-Soh.png",
@@ -641,7 +641,7 @@ window.DOCTORS = [
   {
     id: "island-075",
     name: "Dr. J. Karen",
-    specialty: "Obstetri dan Ginekologi",
+    specialty: "Kebidanan dan Kandungan",
     hospital: "Island Hospital Penang",
     qualification: "MD (USM), FRCOG (Lond)",
     foto: "../img/Island-doctors/dr--j-karen.png",
@@ -649,7 +649,7 @@ window.DOCTORS = [
   {
     id: "island-076",
     name: "Dr. Low Kah Pin",
-    specialty: "Obstetri dan Ginekologi",
+    specialty: "Kebidanan dan Kandungan",
     hospital: "Island Hospital Penang",
     qualification:
       "MBBS (UM), MOBGYN (UM), MRCOG (UK), FMAS/ART (India), MSc BHARE (Spain), AM",
@@ -658,7 +658,7 @@ window.DOCTORS = [
   {
     id: "island-077",
     name: "Dr. Mah Siew Lee",
-    specialty: "Obstetri dan Ginekologi",
+    specialty: "Kebidanan dan Kandungan",
     hospital: "Island Hospital Penang",
     qualification: "MBBS (NSW), FRCOG (Lond)",
     foto: "../img/Island-doctors/dr--mah-siew-lee.png",
@@ -667,7 +667,7 @@ window.DOCTORS = [
   {
     id: "island-078",
     name: "Dr. Mahalakshmi Ratnavale",
-    specialty: "Obstetri dan Ginekologi",
+    specialty: "Kebidanan dan Kandungan",
     hospital: "Island Hospital Penang",
     qualification:
       "MBBS (Mysore), MMed (ObGyn) (Mal), Dip in Fetal Medicine (UK)",
@@ -676,7 +676,7 @@ window.DOCTORS = [
   {
     id: "island-079",
     name: "Dr. Sim Seng Keat",
-    specialty: "Obstetri dan Ginekologi",
+    specialty: "Kebidanan dan Kandungan",
     hospital: "Island Hospital Penang",
     qualification:
       "MBBS (Mal), MRCOG (UK), Fellowship in Minimal Access Surgery (India), Master of Reproductive Medicine (NSW)",
@@ -694,7 +694,7 @@ window.DOCTORS = [
   {
     id: "island-081",
     name: "Dr. Haniffah B. Abdul Gafoor",
-    specialty: "Neurologi",
+    specialty: "Saraf",
     hospital: "Island Hospital Penang",
     qualification: "MD (USM), MRCP (UK), FRCP (Glasg), AM",
     foto: "../img/Island-doctors/dr--haniffah-b-abdul.png",
@@ -702,7 +702,7 @@ window.DOCTORS = [
   {
     id: "island-082",
     name: "Dr. Lim Thien Thien",
-    specialty: "Neurology, Parkinsons & Movement Disorder",
+    specialty: "Saraf & Gangguan Gerak (Parkinson)",
     hospital: "Island Hospital Penang",
     qualification:
       "MD (UNIMAS), MRCP (UK), FRCP (Edin), Fellowship in Neurology (Malaysia), Fellowship in Parkinson Disease & Movement Disorder (USA)",
@@ -711,7 +711,7 @@ window.DOCTORS = [
   {
     id: "island-083",
     name: "Dr. Heng Yen Pin",
-    specialty: "Anestesiologi dan Perawatan Kritis",
+    specialty: "Anastesi dan Pembiusan, Perawatan Kritis",
     hospital: "Island Hospital Penang",
     qualification: "MBBS (Manipal), Mmed (Anaes) (S’pore), AST (S’pore), AM",
     foto: "../img/Island-doctors/dr--heng-yen-pin.png",
@@ -719,7 +719,7 @@ window.DOCTORS = [
   {
     id: "island-084",
     name: "Dr. Isvaran Subramaniam",
-    specialty: "Anestesiologi dan Perawatan Kritis",
+    specialty: "Anastesi dan Pembiusan, Perawatan Kritis",
     hospital: "Island Hospital Penang",
     qualification: "MBBS (India), MMed (Anaes) (UsM)",
     foto: "../img/Island-doctors/dr--isvaran-subramaniam.png",
@@ -727,7 +727,7 @@ window.DOCTORS = [
   {
     id: "island-085",
     name: "Dr. Kiew Li Chin",
-    specialty: "Anestesiologi dan Perawatan Kritis",
+    specialty: "Anastesi dan Pembiusan, Perawatan Kritis",
     hospital: "Island Hospital Penang",
     qualification: "MD (UNIMAS), MMed (Anaes) (Mal)",
     foto: "../img/Island-doctors/dr--kiew-li-chin.png",
@@ -735,7 +735,7 @@ window.DOCTORS = [
   {
     id: "island-086",
     name: "Dr. Lee Hock Keat",
-    specialty: "Anestesiologi dan Perawatan Kritis",
+    specialty: "Anastesi dan Pembiusan, Perawatan Kritis",
     hospital: "Island Hospital Penang",
     qualification: "MBBS (Mangalore), MMed (Anaes) (UKM)",
     foto: "../img/Island-doctors/dr--lee-hock-keat.png",
@@ -743,7 +743,7 @@ window.DOCTORS = [
   {
     id: "island-087",
     name: "Dr. Saw Yee Horng",
-    specialty: "Anestesiologi dan Perawatan Kritis",
+    specialty: "Anastesi dan Pembiusan, Perawatan Kritis",
     hospital: "Island Hospital Penang",
     qualification: "MD (UNIMAS), Master of Anaesthesiology (UIA)",
     foto: "../img/Island-doctors/dr--Saw-yee-horng.png",
@@ -751,7 +751,7 @@ window.DOCTORS = [
   {
     id: "island-088",
     name: "Datin' Dr. Tan Hooi Ming",
-    specialty: "Anestesiologi dan Perawatan Kritis",
+    specialty: "Anastesi dan Pembiusan, Perawatan Kritis",
     hospital: "Island Hospital Penang",
     qualification: "MD (USM), MMed (Anaes) (UKM)",
     foto: "../img/Island-doctors/Dr--Tan-Hooi-Ming.png",
@@ -759,7 +759,7 @@ window.DOCTORS = [
   {
     id: "island-089",
     name: "Dr. Tan Tee Wan",
-    specialty: "Anestesiologi dan Perawatan Kritis",
+    specialty: "Anastesi dan Pembiusan, Perawatan Kritis",
     hospital: "Island Hospital Penang",
     qualification: "MBBS (Sydney), MMed (Anaes) (UKM)",
     foto: "../img/Island-doctors/dr--tan-tee-wan.png",
@@ -767,7 +767,7 @@ window.DOCTORS = [
   {
     id: "island-090",
     name: "Dr. Yap Soon Jin",
-    specialty: "Anestesiologi dan Perawatan Kritis",
+    specialty: "Anastesi dan Pembiusan, Perawatan Kritis",
     hospital: "Island Hospital Penang",
     qualification: "MBBS (B’lore), MMed (Anaes) (UKM)",
     foto: "../img/Island-doctors/Dr--Yap-Soon-Jin.png",
@@ -775,7 +775,7 @@ window.DOCTORS = [
   {
     id: "island-091",
     name: "Dr. Yew Yen Sarn",
-    specialty: "Anestesiologi dan Perawatan Kritis",
+    specialty: "Anastesi dan Pembiusan, Perawatan Kritis",
     hospital: "Island Hospital Penang",
     qualification: "MD (UNIMAS), MMed (Anaes) (UM)",
     foto: "../img/Island-doctors/Dr--Yew-Yen-Sarn.png",
@@ -783,7 +783,7 @@ window.DOCTORS = [
   {
     id: "island-092",
     name: "Dr. Zainisda Zainuddin",
-    specialty: "Anestesiologi dan Perawatan Kritis",
+    specialty: "Anastesi dan Pembiusan, Perawatan Kritis",
     hospital: "Island Hospital Penang",
     qualification: "MD (UKM), MMed (Anaes) (UKM)",
     foto: "../img/Island-doctors/Dr--Zainisda-Zainuddin.png",
@@ -791,7 +791,7 @@ window.DOCTORS = [
   {
     id: "island-093",
     name: "Dr. Sotheenathan Krishinan",
-    specialty: "Bedah Kardiotoraks",
+    specialty: "Bedah Jantung, Paru, dan Pembuluh Darah",
     hospital: "Island Hospital Penang",
     qualification:
       "MD (USM), Master of Surgery (UM), MRCS (Ire.), Fellowship in Cardiothoracic Surgery (MOH)",
@@ -800,7 +800,7 @@ window.DOCTORS = [
   {
     id: "island-094",
     name: "Dr. Saw Min Hong",
-    specialty: "Hematologi Klinis",
+    specialty: "Penyakit & Kelainan Darah (Hematologi)",
     hospital: "Island Hospital Penang",
     qualification:
       "MBChB (Edin), MRCP (UK), FRCPath (UK), ESMO (Cert), Fellowship in Medical Oncology (Melbourne, Australia)",
@@ -809,7 +809,7 @@ window.DOCTORS = [
   {
     id: "island-095",
     name: "Dr. (Icon) Tan Sui Keat",
-    specialty: "Hematologi Klinis",
+    specialty: "Penyakit & Kelainan Darah (Hematologi)",
     hospital: "Island Hospital Penang",
     qualification:
       "MD(UKM), MRCP(UK), Fellowship in Clinical Haematology (MOH), Fellowship in Bone Marrow and Stem Cell Transplantation (Aust), DipRCPath (Haematology)(UK)",
@@ -818,7 +818,7 @@ window.DOCTORS = [
   {
     id: "island-096",
     name: "Dr. Khor Yek Huan",
-    specialty: "Dermatologi",
+    specialty: "Kulit & Estetika (Kecantikan)",
     hospital: "Island Hospital Penang",
     qualification: "MD (UKM), Adv MMed (Derm) (UKM), MRCP (UK), LCP",
     foto: "../img/Island-doctors/dr--khor-yek-huan.png",
@@ -826,7 +826,7 @@ window.DOCTORS = [
   {
     id: "island-097",
     name: "Dr. Lo Kang Shang Chit",
-    specialty: "Dermatologi",
+    specialty: "Kulit & Estetika (Kecantikan)",
     hospital: "Island Hospital Penang",
     qualification:
       "MD (USM), MRCP (UK), Dip Derm (Glasg), FRCP (Edin), Dip STD (Cottisa), Adv MMed (Derm) (UKM), AM",
@@ -835,7 +835,7 @@ window.DOCTORS = [
   {
     id: "island-098",
     name: "Dr. Lee Hock Keong",
-    specialty: "Bedah saraf",
+    specialty: "Bedah Saraf",
     hospital: "Island Hospital Penang",
     qualification: "MBBS (Mal), MSurg (Neurosurgery) (USM)",
     foto: "../img/Island-doctors/Dr--Lee-Hock-Keong.png",

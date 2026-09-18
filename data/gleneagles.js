@@ -2,7 +2,7 @@ window.DOCTORS = [
   {
     id: "gleneagles-001",
     name: "Dato' Dr. Lai Yoon Kee",
-    specialty: "Oftalmologi",
+    specialty: "Spesialis Mata",
     hospital: "Gleneagles Hospital Penang",
     qualification: "DSPN, DJN, MBBS(Mal), FRCS(Edin), FRCOphth, DO(Ire)",
     foto: "../img/Gleneagles-doctors/dato'-dr--lai-yoon-kee.jpg",
@@ -10,7 +10,7 @@ window.DOCTORS = [
   {
     id: "gleneagles-002",
     name: "Dr. Chong Yew Thong",
-    specialty: "Dermatologi",
+    specialty: "Kulit & Estetika (Kecantikan)",
     hospital: "Gleneagles Hospital Penang",
     qualification: "MD (USM), MRCP (UK), Adv M Derm (UKM), AM",
     foto: "../img/Gleneagles-doctors/dr--chong-yew-thong.webp",
@@ -18,7 +18,7 @@ window.DOCTORS = [
   {
     id: "gleneagles-003",
     name: "Dr. Tan Wooi Chiang",
-    specialty: "Dermatologi",
+    specialty: "Kulit & Estetika (Kecantikan)",
     hospital: "Gleneagles Hospital Penang",
     qualification:
       "MD (USM), Dip. in STDs/AIDS (COTTISA), Dip. in Dermatology (Glasgow), MRCP (Ireland), Adv M Derm (UKM), AM (Malaysia).",
@@ -27,7 +27,7 @@ window.DOCTORS = [
   {
     id: "gleneagles-004",
     name: "Dr. Lim Moi Woi",
-    specialty: "Anestesiologi",
+    specialty: "Anestesi dan Pembiusan",
     hospital: "Gleneagles Hospital Penang",
     qualification: "MD(USM), M Med(Anaesthesiology)",
     foto: "../img/Gleneagles-doctors/dr--lim-moi-moi.jpg",
@@ -35,7 +35,7 @@ window.DOCTORS = [
   {
     id: "gleneagles-005",
     name: "Dr. Oh Chin Soo",
-    specialty: "Anestesiologi",
+    specialty: "Anestesi dan Pembiusan",
     hospital: "Gleneagles Hospital Penang",
     qualification: "MD(UKM), M Med (Anaesthesiology)",
     foto: "../img/Gleneagles-doctors/dr--oh-chin-soo.jpg",
@@ -43,7 +43,7 @@ window.DOCTORS = [
   {
     id: "gleneagles-006",
     name: "Dr. Chuah Kim Hua",
-    specialty: "Anestesiologi",
+    specialty: "Anestesi dan Pembiusan",
     hospital: "Gleneagles Hospital Penang",
     qualification: "MBBS(U NSW), M Med(Anaesthesiology)",
     foto: "../img/Gleneagles-doctors/dr--chuah-kim-hua.jpg",
@@ -51,7 +51,7 @@ window.DOCTORS = [
   {
     id: "gleneagles-007",
     name: "Dr. Goay Chun Kiat",
-    specialty: "Anestesiologi",
+    specialty: "Anestesi dan Pembiusan",
     hospital: "Gleneagles Hospital Penang",
     qualification: "MBBS (Belgaum), M.Med. (Anaesthesiology)",
     foto: "../img/Gleneagles-doctors/dr--goay-chun-kiat.jpg",
@@ -59,7 +59,7 @@ window.DOCTORS = [
   {
     id: "gleneagles-008",
     name: "Dr. Neoh Eu Bryan",
-    specialty: "Anestesiologi",
+    specialty: "Anestesi dan Pembiusan",
     hospital: "Gleneagles Hospital Penang",
     qualification: "MD, M.Med. (Anaesthesiology)",
     foto: "../img/Gleneagles-doctors/dr--neoh-eu-bryan.jpg",
@@ -67,7 +67,7 @@ window.DOCTORS = [
   {
     id: "gleneagles-009",
     name: "Dr. Poh Ban Chung",
-    specialty: "Anestesiologi",
+    specialty: "Anestesi dan Pembiusan",
     hospital: "Gleneagles Hospital Penang",
     qualification: "MD (UKM), Dr Anaesthesia & Critical Care (UKM)",
     foto: "../img/Gleneagles-doctors/dr--poh-ban-chung.jpg",
@@ -75,7 +75,7 @@ window.DOCTORS = [
   {
     id: "gleneagles-010",
     name: "Dr. Tan Wei Pern",
-    specialty: "Anestesiologi",
+    specialty: "Anestesi dan Pembiusan",
     hospital: "Gleneagles Hospital Penang",
     qualification: "MD (UPM), MMed Anes (UM)",
     foto: "../img/Gleneagles-doctors/dr--tan-wei-pern.png",
@@ -83,7 +83,7 @@ window.DOCTORS = [
   {
     id: "gleneagles-011",
     name: "Dr. Ang Chee How",
-    specialty: "Anestesiologi",
+    specialty: "Anestesi dan Pembiusan",
     hospital: "Gleneagles Hospital Penang",
     qualification: "MD(USM), MMed Anes(USM)",
     foto: "../img/Gleneagles-doctors/dr--ang-chee-how.jpg",
@@ -91,7 +91,7 @@ window.DOCTORS = [
   {
     id: "gleneagles-012",
     name: "Dr. Chin Jin Chew",
-    specialty: "Anestesiologi",
+    specialty: "Anestesi dan Pembiusan",
     hospital: "Gleneagles Hospital Penang",
     qualification: "MBBS (Australia), MMed Anaes (IIUM)",
     foto: "../img/Gleneagles-doctors/dr--chin-jin-chew.jpeg",
@@ -99,7 +99,7 @@ window.DOCTORS = [
   {
     id: "gleneagles-013",
     name: "Dr. Cheng Kean Sim",
-    specialty: "Anestesiologi",
+    specialty: "Anestesi dan Pembiusan",
     hospital: "Gleneagles Hospital Penang",
     qualification: "MBBS (UM),Master of Anaesthesiology (MAnaes) (UM).",
     foto: "../img/Gleneagles-doctors/dr--cheng-kean-sim.webp",
@@ -107,7 +107,7 @@ window.DOCTORS = [
   {
     id: "gleneagles-014",
     name: "Dr. Annamalar Muthu",
-    specialty: "Kardiologi",
+    specialty: "Jantung dan Pembuluh Darah",
     hospital: "Gleneagles Hospital Penang",
     qualification:
       "MBBS (UM), MRCP (UK), Fellowship in Interventional Cardiology (Canada), Fellowship in Structural and Adult Congenital Heart Disease Intervention (Canada), Clinical Focus in Structural & GUCH Interventional",
@@ -116,7 +116,7 @@ window.DOCTORS = [
   {
     id: "gleneagles-015",
     name: "Dr. Gan Hwa Wooi",
-    specialty: "Kardiologi",
+    specialty: "Jantung dan Pembuluh Darah",
     hospital: "Gleneagles Hospital Penang",
     qualification:
       "MBBS(UM), MRCP(UK), AM(Malaysia), Board Cert - Cardiology(S’pore), FAMS Cardiology (S’pore), Fellowship - TRI & Interventional Cardiology (Taiwan), ACSM CES(USA), FAPSIC (Asia Pacific), FESC (Europe)",
@@ -125,7 +125,7 @@ window.DOCTORS = [
   {
     id: "gleneagles-016",
     name: "Dr. Koay Koon Wee",
-    specialty: "Kardiologi",
+    specialty: "Jantung dan Pembuluh Darah",
     hospital: "Gleneagles Hospital Penang",
     qualification: "MD (UKM), MRCP (UK),Fellowship in Cardiology (Malaysia)",
     foto: "../img/Gleneagles-doctors/dr--koay-koon-wee.webp",
@@ -133,7 +133,7 @@ window.DOCTORS = [
   {
     id: "gleneagles-017",
     name: "Dr. Neoh Eu Rick",
-    specialty: "Kardiologi",
+    specialty: "Jantung dan Pembuluh Darah",
     hospital: "Gleneagles Hospital Penang",
     qualification:
       "MBBS (Hons) (Belgaum), MRCP (UK), MMed (Int. Med.) (Spore), FSCAI (USA)",
@@ -142,7 +142,7 @@ window.DOCTORS = [
   {
     id: "gleneagles-018",
     name: "Dr. Ng Jit Beng",
-    specialty: "Kardiologi",
+    specialty: "Jantung dan Pembuluh Darah",
     hospital: "Gleneagles Hospital Penang",
     qualification:
       "MBBS (London), MRCP (UK), CEPS-A (IBHRE), Fellowship in Electrophysiology and Pacing (Singapore), AM",
@@ -151,7 +151,7 @@ window.DOCTORS = [
   {
     id: "gleneagles-019",
     name: "Datin Dr. Ong Mei Lin",
-    specialty: "Kardiologi",
+    specialty: "Jantung dan Pembuluh Darah",
     hospital: "Gleneagles Hospital Penang",
     qualification:
       "MBBS(Mal), FRCP(Lond), FRCP(Edin), FRCP&S(Glasg), FESC, FACC, FAsCC, AM, FNHAM",
@@ -160,7 +160,7 @@ window.DOCTORS = [
   {
     id: "gleneagles-020",
     name: "Dr. Rajesh P. Shah",
-    specialty: "Kardiologi",
+    specialty: "Jantung dan Pembuluh Darah",
     hospital: "Gleneagles Hospital Penang",
     qualification:
       "PKT, MBBS(S'pore), M.Med(Int Med)(S'pore), FAMS(Cardiology), FNHAM, FRCP(Edin, UK), FESC(Eu), FACC(USA), AM, FSCAI(USA)",
@@ -169,7 +169,7 @@ window.DOCTORS = [
   {
     id: "gleneagles-021",
     name: "Dato' Dr. Simon Lo",
-    specialty: "Kardiologi",
+    specialty: "Jantung dan Pembuluh Darah",
     hospital: "Gleneagles Hospital Penang",
     qualification:
       "DSPN, PKT, MB BCh(Wales), MD(Cardiology)(Cardiff), FRCP(London), FRCP(Edin), FNHM, FESC, FACC (USA), FSCAI(USA), AM",
@@ -178,7 +178,7 @@ window.DOCTORS = [
   {
     id: "gleneagles-022",
     name: "Mr. Hafiz Steven Law Bin Abdullah",
-    specialty: "Bedah Kardiotoraks",
+    specialty: "Bedah Jantung, Paru, dan Pembuluh Darah",
     hospital: "Gleneagles Hospital Penang",
     qualification: "PJK, MBBS, FRCS(Edin), AM",
     foto: "../img/Gleneagles-doctors/hafiz-steven-law.jpg",
@@ -367,7 +367,7 @@ window.DOCTORS = [
   {
     id: "gleneagles-044",
     name: "Dr. Christopher Yeoh Siu Ngee",
-    specialty: "Otolaringologi",
+    specialty: "THT, Bedah Kepala Leher",
     hospital: "Gleneagles Hospital Penang",
     qualification: "MD (UCSI), MS ORL HNS (UKM), CMIA (NIOSH)",
     foto: "../img/Gleneagles-doctors/dr--christopher-yeoh-siu-ngee.webp",
@@ -375,7 +375,7 @@ window.DOCTORS = [
   {
     id: "gleneagles-045",
     name: "Dr. Lina Ling Chooi",
-    specialty: "Otolaringologi",
+    specialty: "THT, Bedah Kepala Leher",
     hospital: "Gleneagles Hospital Penang",
     qualification:
       "MBBS (India), MS ORL HNS (UM), Fellowship in Rhinology and Anterior Skull Base (Malaysia/Houston, USA), CMIA (NIOSH), AM, Clinical Focus in Rhinology & Anterior Skull Base Surgery",
@@ -384,7 +384,7 @@ window.DOCTORS = [
   {
     id: "gleneagles-046",
     name: "Mr. Oh Ewe Lik",
-    specialty: "Otolaringologi",
+    specialty: "THT, Bedah Kepala Leher",
     hospital: "Gleneagles Hospital Penang",
     qualification: "MBBS(Mal), FRCS(Edin)",
     foto: "../img/Gleneagles-doctors/mr--oh-ewe-lik.jpg",
@@ -392,7 +392,7 @@ window.DOCTORS = [
   {
     id: "gleneagles-047",
     name: "Dato' Dr. Pua Kin Choo",
-    specialty: "Otolaringologi",
+    specialty: "THT, Bedah Kepala Leher",
     hospital: "Gleneagles Hospital Penang",
     qualification:
       "DSPN, MBBS (Delhi), MS. ORL (Malaya) Fellowship in Head and Neck Surgery (Pittsburgh, USA) CMIA (Certified Medical Impairment Assessor) (NIOSH)",
@@ -401,7 +401,7 @@ window.DOCTORS = [
   {
     id: "gleneagles-048",
     name: "Dato' Dr. S P Palaniappan",
-    specialty: "Otolaringologi",
+    specialty: "THT, Bedah Kepala Leher",
     hospital: "Gleneagles Hospital Penang",
     qualification: "KMN, PJK, MBBS(Madras), DLO(Eng), FRCSED, AM",
     foto: "../img/Gleneagles-doctors/dato'-dr--s-p-palaniappan.jpg",
@@ -418,7 +418,7 @@ window.DOCTORS = [
   {
     id: "gleneagles-050",
     name: "Prof. Dr. Amir S. Khir",
-    specialty: "Endokrinologi",
+    specialty: "Hormon, Diabetes, dan Tiroid",
     hospital: "Gleneagles Hospital Penang",
     qualification:
       "MB ChB (Edin), MRCP (UK), FRCP (Edin), FRCP (Ire), DMed (hc NUI)",
@@ -586,7 +586,7 @@ window.DOCTORS = [
   {
     id: "gleneagles-069",
     name: "Dr. Suresh Kumarasamy",
-    specialty: "Ginekologi",
+    specialty: "Kandungan & Kesehatan Wanita",
     hospital: "Gleneagles Hospital Penang",
     qualification: "MBBS(Mysore), MObGyn(Mal), FRCOG(Lond), FRCP(Ire), AM",
     foto: "../img/Gleneagles-doctors/dr--suresh-kumarasamy.jpg",
@@ -594,7 +594,7 @@ window.DOCTORS = [
   {
     id: "gleneagles-070",
     name: "Dr. Amelia Lim Lay Suan",
-    specialty: "Oftalmologi",
+    specialty: "Spesialis Mata",
     hospital: "Gleneagles Hospital Penang",
     qualification:
       "MD (UPM), MSURG OPHTHAL (UKM), CCFT (MAL), Clinical Focus in Medical Retina",
@@ -603,7 +603,7 @@ window.DOCTORS = [
   {
     id: "gleneagles-071",
     name: "Dr. Chow Rhuen Chiou",
-    specialty: "Oftalmologi",
+    specialty: "Spesialis Mata",
     hospital: "Gleneagles Hospital Penang",
     qualification:
       "MBBS (UNSW, Australia), MS Ophthal. (UM), CCFT (MAL), Clinical Focus in Vitreo-Retinal Surgery",
@@ -612,7 +612,7 @@ window.DOCTORS = [
   {
     id: "gleneagles-072",
     name: "Dr. Jonathan Choon Siew Cheong",
-    specialty: "Oftalmologi",
+    specialty: "Spesialis Mata",
     hospital: "Gleneagles Hospital Penang",
     qualification: "MB BCh(Ire), LRCP &amp; S(Ire), FRCOphth(UK)",
     foto: "../img/Gleneagles-doctors/dr--jonathan-choon-siew-cheong.jpg",
@@ -620,7 +620,7 @@ window.DOCTORS = [
   {
     id: "gleneagles-073",
     name: "Dr. Ng Wei Loon",
-    specialty: "Oftalmologi",
+    specialty: "Spesialis Mata",
     hospital: "Gleneagles Hospital Penang",
     qualification:
       "MD (UKM), DR. OPHTH (UKM), CCFT in Paediatric Ophthalmology and Strabismus (Malaysia & Thailand), Clinical Focus in Paediatric Ophthalmology",
@@ -629,7 +629,7 @@ window.DOCTORS = [
   {
     id: "gleneagles-074",
     name: "Dr. Vivian Gong Hee Ming",
-    specialty: "Oftalmologi",
+    specialty: "Spesialis Mata",
     hospital: "Gleneagles Hospital Penang",
     qualification:
       "MBBS (Mangalore), FRCS (Edin), MS. Ophthalmology (UKM), Clinical Focus in Glaucoma Surgery",
@@ -754,7 +754,7 @@ window.DOCTORS = [
   {
     id: "gleneagles-088",
     name: "Dr. Chiah Cheun Hui",
-    specialty: "Pediatrik",
+    specialty: "Spesialis Anak",
     hospital: "Gleneagles Hospital Penang",
     qualification:
       "MD(UKM), MRCPCH(UK), Diploma in Family Practice Dermatology (S'pore)",
@@ -763,7 +763,7 @@ window.DOCTORS = [
   {
     id: "gleneagles-089",
     name: "Dr. Chua Yi Cheau",
-    specialty: "Pediatrik",
+    specialty: "Spesialis Anak",
     hospital: "Gleneagles Hospital Penang",
     qualification:
       "MBBS International Medical University (IMU), MALAYSIA, MRCPCH (UK), Paediatric Respiratory (HTA, UMMC, HPP and Royal Children’s Hospital Melbourne, Australia)",
@@ -772,7 +772,7 @@ window.DOCTORS = [
   {
     id: "gleneagles-090",
     name: "Dr. Chuah Kheng Hui",
-    specialty: "Pediatrik",
+    specialty: "Spesialis Anak",
     hospital: "Gleneagles Hospital Penang",
     qualification:
       "MBBS (IMU), MRCPCH (UK), Fellowship in Adolescent Medicine (Australia)",
@@ -781,7 +781,7 @@ window.DOCTORS = [
   {
     id: "gleneagles-091",
     name: "Dr. Jessica CG Tan",
-    specialty: "Pediatrik",
+    specialty: "Spesialis Anak",
     hospital: "Gleneagles Hospital Penang",
     qualification: "MB ChB(Dundee), DCH(Glasg), MRCP(UK)",
     foto: "../img/Gleneagles-doctors/dr--jessica-cg-tan.jpg",
@@ -789,7 +789,7 @@ window.DOCTORS = [
   {
     id: "gleneagles-092",
     name: "Dr. Khamini Ramanujam",
-    specialty: "Pediatrik",
+    specialty: "Spesialis Anak",
     hospital: "Gleneagles Hospital Penang",
     qualification: "MBBS (Manipal), MRCPCH (UK)",
     foto: "../img/Gleneagles-doctors/dr--khamini-ramanujam.jpg",
@@ -797,7 +797,7 @@ window.DOCTORS = [
   {
     id: "gleneagles-093",
     name: "Dr. Ng Yun Yun",
-    specialty: "Pediatrik",
+    specialty: "Spesialis Anak",
     hospital: "Gleneagles Hospital Penang",
     qualification:
       "MD (UKM), MMed Paediatric (UM), MRCPCH (UK), Fellowship in Neonatology (Malaysia)",
@@ -806,7 +806,7 @@ window.DOCTORS = [
   {
     id: "gleneagles-094",
     name: "Dr. Shereen Toh May Yi",
-    specialty: "Pediatrik",
+    specialty: "Spesialis Anak",
     hospital: "Gleneagles Hospital Penang",
     qualification:
       "MD (USM), MRCPCH (Royal College of Paediatrics and Child Health, UK), Fellowship in Paediatric Cardiology (Malaysia & Australia)",
@@ -815,7 +815,7 @@ window.DOCTORS = [
   {
     id: "gleneagles-095",
     name: "Dato' Dr. Vigneswari A/P M Ganesan",
-    specialty: "Pediatrik",
+    specialty: "Spesialis Anak",
     hospital: "Gleneagles Hospital Penang",
     qualification: "MD (USM), MRCP (UK), FRCPCH (UK)",
     foto: "../img/Gleneagles-doctors/dato'-dr--vigneswari-ap-m-ganesan.webp",
@@ -823,7 +823,7 @@ window.DOCTORS = [
   {
     id: "gleneagles-096",
     name: "Dr. Tan Chee Wei",
-    specialty: "Pediatri - Bedah",
+    specialty: "Bedah Anak",
     hospital: "Gleneagles Hospital Penang",
     qualification: "MBBS (UM), Master of Paediatric Surgery (UM)",
     foto: "../img/Gleneagles-doctors/dr--tan-chee-wei.png",
@@ -914,7 +914,7 @@ window.DOCTORS = [
   {
     id: "gleneagles-107",
     name: "Dr. Yeow Tow Non",
-    specialty: "Radiologi Intervensional",
+    specialty: "Radiologi Intervensi",
     hospital: "Gleneagles Hospital Penang",
     qualification: "MB. BCh. BAO (Ire), MRCP(UK), FRCR(UK)",
     foto: "../img/Gleneagles-doctors/dr--yeow-tow-non.jpg",
@@ -922,7 +922,7 @@ window.DOCTORS = [
   {
     id: "gleneagles-108",
     name: "Dr. Fong Chin Heng",
-    specialty: "Onkologi & Radioterapi",
+    specialty: "Kanker & Tumor",
     hospital: "Gleneagles Hospital Penang",
     qualification:
       "MD (USM), M.Clinical Oncology (UM), AM, Fellow (Princess Margaret Cancer Center, Toronto).",
@@ -931,7 +931,7 @@ window.DOCTORS = [
   {
     id: "gleneagles-109",
     name: "Dr. Lee Wei Ching",
-    specialty: "Onkologi & Radioterapi",
+    specialty: "Kanker & Tumor",
     hospital: "Gleneagles Hospital Penang",
     qualification: "MBBS (UWI), M.Clinical Oncology (UM)",
     foto: "../img/Gleneagles-doctors/dr--lee-wei-ching.jpg",
@@ -939,7 +939,7 @@ window.DOCTORS = [
   {
     id: "gleneagles-110",
     name: "Dr. Shazril Imran Bin Shaukat",
-    specialty: "Onkologi & Radioterapi",
+    specialty: "Kanker & Tumor",
     hospital: "Gleneagles Hospital Penang",
     qualification:
       "MBChB (Leicester, UK);FRCR (London);SCE Medical Oncology (London);Clinical Fellow in Oncology (Manchester)",
@@ -948,7 +948,7 @@ window.DOCTORS = [
   {
     id: "gleneagles-111",
     name: "Dr. Sum Ying Ying",
-    specialty: "Onkologi & Radioterapi",
+    specialty: "Kanker & Tumor",
     hospital: "Gleneagles Hospital Penang",
     qualification:
       "MB BCh BAO (Ireland), Master of Clinical Oncology (UM Malaysia), FRCR Clinical Oncology (UK), Radiation Oncology Fellowship, (Princess Margaret Cancer Centre, Canada)",
@@ -957,7 +957,7 @@ window.DOCTORS = [
   {
     id: "gleneagles-112",
     name: "Mr. Aaron Goh Yue Keng",
-    specialty: "Onkologi & Radioterapi",
+    specialty: "Saluran Kemih & Reproduksi Pria",
     hospital: "Gleneagles Hospital Penang",
     qualification:
       "MBBS (IMU), MRCS (Ireland), FRCS Urology (Glasgow), Malaysian Board of Urology Certification, Clinical Focus in Robotic Surgery",
@@ -966,7 +966,7 @@ window.DOCTORS = [
   {
     id: "gleneagles-113",
     name: "Mr. Ooi Chong Chien",
-    specialty: "Onkologi & Radioterapi",
+    specialty: "Saluran Kemih & Reproduksi Pria",
     hospital: "Gleneagles Hospital Penang",
     qualification:
       "MBBS (Mal), MRCS (Edin), M. SURGERY (UM), FRCS [Urology] (Glasgow), MALAYSIAN BOARD OF UROLOGY CERTIFIED",
@@ -975,7 +975,7 @@ window.DOCTORS = [
   {
     id: "gleneagles-114",
     name: "Mr. Timothy Khor",
-    specialty: "Onkologi & Radioterapi",
+    specialty: "Saluran Kemih & Reproduksi Pria",
     hospital: "Gleneagles Hospital Penang",
     qualification: "MB BCh(Wales), FRCS(Ire), FICS, AM",
     foto: "../img/Gleneagles-doctors/mr--timothy-khor.jpg",

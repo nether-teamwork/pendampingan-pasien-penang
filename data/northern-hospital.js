@@ -2,7 +2,7 @@ window.DOCTORS = [
   {
     id: "northern-001",
     name: "Dr. Tan Chiang Soo",
-    specialty: "Kardiologi",
+    specialty: "Jantung & Pembuluh Darah",
     hospital: "Northern Heart Hospital Penang",
     qualification:
       "MBBS (Hons) (Aus), MRCP (UK), FAMS Kardiologi (Singapura), FSCAI (AS)",
@@ -11,7 +11,7 @@ window.DOCTORS = [
   {
     id: "northern-002",
     name: "Dr. Barakath Badusha Bin Abdul Kareem",
-    specialty: "Kardiologi",
+    specialty: "Jantung & Pembuluh Darah",
     hospital: "Northern Heart Hospital Penang",
     qualification:
       "MD (UK M'sia), MRCP (UK), M Med (UM), FNHAM, FAsCC, Fellowship in Cardiac Imaging (Australia)",
@@ -20,7 +20,7 @@ window.DOCTORS = [
   {
     id: "northern-003",
     name: "Dr. Donald Ang Swee Cheng",
-    specialty: "Kardiologi",
+    specialty: "Jantung & Pembuluh Darah",
     hospital: "Northern Heart Hospital Penang",
     qualification:
       "MBChB (Inggris), MRCP (Inggris), FRCP (Edinburg), MD (Inggris), CCST Kardiologi (Inggris), FESC (Eropa), Fellowship dalam Kardiologi Intervensi (Newcastle, Inggris), AM",
@@ -29,7 +29,7 @@ window.DOCTORS = [
   {
     id: "northern-004",
     name: "Dr. Chen Lean Seng",
-    specialty: "Kardiologi",
+    specialty: "Jantung & Pembuluh Darah",
     hospital: "Northern Heart Hospital Penang",
     qualification:
       "MD (FMSMU), MRCP (UK), Fellowship dalam Kardiologi (MOH), Fellowship dalam Intervensi Penyakit Jantung Struktural (Mahidol)",
@@ -38,7 +38,7 @@ window.DOCTORS = [
   {
     id: "northern-005",
     name: "Dr. Mugilan Sundarajoo",
-    specialty: "Kardiologi",
+    specialty: "Jantung & Pembuluh Darah",
     hospital: "Northern Heart Hospital Penang",
     qualification:
       "MBBS (Manipal), MRCP (London), FRCP (Edinburgh), FACC (AS), FAPSIC (Asia Pasifik), AM (MAL), BSCI/BSCCT (UK), EAPCI (EU), HFA (ESC), EECC (EU), Fellowship dalam Kardiologi Intervensi (Intervensi Koroner Kompleks & Vaskular Perifer), Institut Jantung Negara",
@@ -47,7 +47,7 @@ window.DOCTORS = [
   {
     id: "northern-006",
     name: "Prof. Dato’ Dr. Abu Yamin Bin Khamis",
-    specialty: "Bedah Kardiotoraks",
+    specialty: "Bedah Jantung, Paru, dan Pembuluh Darah",
     hospital: "Northern Heart Hospital Penang",
     qualification:
       "MD (UKM), MS (UKM), Fellowship Bedah Kardiotoraks (M’sia), Bedah Jantung Dewasa (Melbourne), Bedah Jantung Anak (Bangalore), Bedah Kardiotoraks Minimal Invasif",
@@ -56,7 +56,7 @@ window.DOCTORS = [
   {
     id: "northern-007",
     name: "Prof. Dato’ Dr. Hj Basheer Ahamed Bin Abdul Kareem (BCN, DSPN)",
-    specialty: "Bedah Kardiotoraks",
+    specialty: "Bedah Jantung, Paru, dan Pembuluh Darah",
     hospital: "Northern Heart Hospital Penang",
     qualification:
       "MBBS (Malaya), FRCS (Irlandia), FRCS (Edinburgh), FRCS (Inggris) Cth, Fellowship Bedah Kardiotoraks (Newcastle, UK)",
@@ -65,7 +65,7 @@ window.DOCTORS = [
   {
     id: "northern-008",
     name: "Assoc. Prof. Dr. Edward Choke Tieng Chek",
-    specialty: "Bedah Vaskular",
+    specialty: "Bedah Pembuluh Darah",
     hospital: "Northern Heart Hospital Penang",
     qualification: "MBBS Hons 1 (Sydney), FRCS (Inggris), PhD (London)",
     foto: "../img/Northern-doctors/Assoc-Prof-Dr--Edward-Choke-Tieng-Chek.webp",
@@ -73,7 +73,7 @@ window.DOCTORS = [
   {
     id: "northern-009",
     name: "Dr. Yeoh Aik Hoe",
-    specialty: "Anestesiologi Jantung",
+    specialty: "Anestesi Jantung",
     hospital: "Northern Heart Hospital Penang",
     qualification: "MD (USM), M Med (Anaes) (UKM)",
     foto: "../img/Northern-doctors/Dr--Yeoh-Aik-Hoe.webp",
@@ -81,7 +81,7 @@ window.DOCTORS = [
   {
     id: "northern-010",
     name: "Dr. Khaw Soon Keong",
-    specialty: "Anestesiologi Jantung",
+    specialty: "Anestesi Jantung",
     hospital: "Northern Heart Hospital Penang",
     qualification: "MBBS (UM), MAnaes (UM)",
     foto: "../img/Northern-doctors/Dr--Khaw-Soon-Keong.webp",
@@ -97,7 +97,7 @@ window.DOCTORS = [
   {
     id: "northern-012",
     name: "Dr. Tuan Jiun Haur",
-    specialty: "Elektrofisiologi",
+    specialty: "Saraf Kelistrikan Jantung (Elektrofisiologi)",
     hospital: "Northern Heart Hospital Penang",
     qualification:
       "MBChB (Glasg), MRCP (UK), MD (Elektrofisiologi Jantung), CCT (UK)",
@@ -106,7 +106,7 @@ window.DOCTORS = [
   {
     id: "northern-013",
     name: "Dr Michelle Kao Pei Ching",
-    specialty: "Nefrologi & Penyakit Dalam",
+    specialty: "Ginjal & Hipertensi, Penyakit Dalam",
     hospital: "Northern Heart Hospital Penang",
     qualification:
       "MBChB (UK), MRCP (Edin), MD (UK), FRCP (Edin), CCST (Nefrologi)(UK), AM",
