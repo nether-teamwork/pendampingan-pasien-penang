@@ -81,6 +81,46 @@
         </div>
       </section>
 
+      <section class="dokter-pilihan-section">
+        <div class="main-container">
+          <h2 class="section-main-title">
+            Rekomendasi Dokter Terbaik di Penang
+          </h2>
+          <p class="section-subtitle">
+            Pilih spesialisasi di bawah ini untuk melihat dokter ahli pilihan
+            terpercaya.
+          </p>
+
+          <div class="tabs-outer-container">
+            <button
+              id="slide-left"
+              class="nav-arrow-btn arrow-left"
+              title="Geser Kiri"
+            >
+              ‹
+            </button>
+
+            <div id="tabs-navigation" class="category-tabs-wrapper"></div>
+
+            <button
+              id="slide-right"
+              class="nav-arrow-btn arrow-right"
+              title="Geser Kanan"
+            >
+              ›
+            </button>
+          </div>
+
+          <div id="active-dokter-display" class="dokter-showcase-container">
+            <h3 id="current-spesialis-title" class="current-title"></h3>
+            <div
+              id="dokter-cards-grid"
+              class="dokter-cards-responsive-grid"
+            ></div>
+          </div>
+        </div>
+      </section>
+
       <section class="section alt">
         <div class="container">
           <div class="section-head">
@@ -448,5 +488,7 @@
       >
     </div>
     <script src="assets/script.js"></script>
+
+    <script src="data/data-spesialis.js"></script>
   </body>
 </html>

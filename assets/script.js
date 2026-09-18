@@ -19,7 +19,6 @@ function waUrl(message = DEFAULT_MESSAGE) {
   return `https://wa.me/${activeNumber}?text=${encodeURIComponent(message)}`;
 }
 
-// Inisialisasi WhatsApp CTA
 function initWhatsApp() {
   document.querySelectorAll("[data-whatsapp]").forEach((el) => {
     const message = el.dataset.message || DEFAULT_MESSAGE;
@@ -185,10 +184,8 @@ function initDoctorDirectory() {
       grid.innerHTML = result.length
         ? result
             .map((d, i) => {
-              // 🛡️ KEAMANAN SIBER: Bersihkan URL foto dengan doctorEscape
               const fotoUrl = d.foto ? doctorEscape(d.foto) : "";
 
-              // 🧠 LOGIKA BERSYARAT: Cek ketersediaan foto untuk area grid utama
               const isiAvatar = fotoUrl
                 ? `<img src="${fotoUrl}" alt="${doctorEscape(d.name)}" class="doctor-photo-render">`
                 : doctorEscape(doctorInitials(d.name));
@@ -210,14 +207,12 @@ function initDoctorDirectory() {
           const d = doctors[Number(btn.dataset.doctorIndex)];
           if (!modal) return;
 
-          // 🛡️ KEAMANAN SIBER: Bersihkan URL foto modal box
           const fotoUrlModal = d.foto ? doctorEscape(d.foto) : "";
           const wadahAvatarModal = document.getElementById(
             "doctor-modal-avatar",
           );
 
           if (wadahAvatarModal) {
-            // 🧠 LOGIKA BERSYARAT: Pasang foto atau inisial teks di dalam Modal Box
             wadahAvatarModal.innerHTML = fotoUrlModal
               ? `<img src="${fotoUrlModal}" alt="${doctorEscape(d.name)}" class="doctor-photo-render">`
               : doctorEscape(doctorInitials(d.name));
@@ -265,4 +260,97 @@ document.addEventListener("DOMContentLoaded", () => {
   initYear();
   initActiveMenu();
   initDoctorDirectory();
+
+  const tabsNav = document.getElementById("tabs-navigation");
+  const currentTitle = document.getElementById("current-spesialis-title");
+  const cardsGrid = document.getElementById("dokter-cards-grid");
+  const btnLeft = document.getElementById("slide-left");
+  const btnRight = document.getElementById("slide-right");
+
+  function tampilkanDokter(spesialis) {
+    if (!cardsGrid || !currentTitle) return;
+
+    cardsGrid.innerHTML = "";
+    currentTitle.textContent = spesialis.namaSpesialis;
+
+    spesialis.dokter.forEach((doc) => {
+      const cardLink = document.createElement("a");
+      cardLink.href = doc.link;
+      cardLink.className = "dokter-card-anchor";
+
+      cardLink.innerHTML = `
+          <div class="dokter-premium-card">
+              <div class="avatar-frame-container">
+                  <img src="${doc.foto}" alt="${doc.nama}" class="dokter-avatar-img" onerror="this.src='img/Logo-pendampingan-pasien-penang.png';">
+              </div>
+              <h4 class="dokter-card-name">${doc.nama}</h4>
+              <span class="hospital-cta-badge">Lihat Profil RS →</span>
+          </div>
+      `;
+      cardsGrid.appendChild(cardLink);
+    });
+  }
+
+  if (tabsNav && cardsGrid) {
+    dataSpesialisDokter.forEach((spesialis, index) => {
+      const btn = document.createElement("button");
+      btn.className = "category-tab-btn";
+      btn.textContent = spesialis.namaSpesialis.replace("Spesialisasi ", "");
+
+      if (index === 0) {
+        btn.classList.add("active-tab");
+        tampilkanDokter(spesialis);
+      }
+
+      btn.addEventListener("click", () => {
+        document
+          .querySelectorAll(".category-tab-btn")
+          .forEach((t) => t.classList.remove("active-tab"));
+        btn.classList.add("active-tab");
+
+        tampilkanDokter(spesialis);
+
+        btn.scrollIntoView({
+          behavior: "smooth",
+          inline: "center",
+          block: "nearest",
+        });
+      });
+      tabsNav.appendChild(btn);
+    });
+  }
+
+  if (tabsNav && btnLeft && btnRight) {
+    const hitungJarakGeser = () => tabsNav.clientWidth * 0.6;
+
+    btnRight.addEventListener("click", () => {
+      tabsNav.scrollLeft += hitungJarakGeser();
+    });
+
+    btnLeft.addEventListener("click", () => {
+      tabsNav.scrollLeft -= hitungJarakGeser();
+    });
+
+    tabsNav.addEventListener("scroll", () => {
+      const mentokKanan =
+        tabsNav.scrollLeft >= tabsNav.scrollWidth - tabsNav.clientWidth - 2;
+      const mentokKiri = tabsNav.scrollLeft <= 2;
+
+      btnLeft.style.opacity = mentokKiri ? "0.3" : "1";
+      btnLeft.style.pointerEvents = mentokKiri ? "none" : "auto";
+
+      btnRight.style.opacity = mentokKanan ? "0.3" : "1";
+      btnRight.style.pointerEvents = mentokKanan ? "none" : "auto";
+    });
+
+    setTimeout(() => {
+      if (tabsNav.scrollWidth <= tabsNav.clientWidth) {
+        btnLeft.style.display = "none";
+        btnRight.style.display = "none";
+      } else {
+        btnLeft.style.opacity = "0.3";
+        btnLeft.style.pointerEvents = "none";
+      }
+    }, 300);
+  }
 });
