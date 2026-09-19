@@ -5,17 +5,17 @@ const dataSpesialisDokter = [
     dokter: [
       {
         nama: "Dr. Mugilan Sundarajoo",
-        foto: "../img/Northern-doctors/Dr--Mugilan-Sundarajoo.webp",
+        foto: "img/Northern-doctors/Dr--Mugilan-Sundarajoo.webp",
         link: "dokter/northern-hospital.html",
       },
       {
         nama: "Dr. Tan Chiang Soo",
-        foto: "../img/Northern-doctors/dr--tan-chiang-soo.webp",
+        foto: "img/Northern-doctors/dr--tan-chiang-soo.webp",
         link: "dokter/northern-hospital.html",
       },
       {
         nama: "Dr. Lee Tjen Jhung",
-        foto: "../img/Island-doctors/Dr--Lee-Tjen-Jhung.png",
+        foto: "img/Island-doctors/Dr--Lee-Tjen-Jhung.png",
         link: "dokter/island-hospital.html",
       },
       {

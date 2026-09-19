@@ -278,10 +278,14 @@ document.addEventListener("DOMContentLoaded", () => {
       cardLink.href = doc.link;
       cardLink.className = "dokter-card-anchor";
 
+      // PERBAIKAN: Menambahkan /pendampingan-pasien-penang/ pada src foto utama AND onerror logo cadangan
       cardLink.innerHTML = `
           <div class="dokter-premium-card">
               <div class="avatar-frame-container">
-                  <img src="/pendampingan-pasien-penang/${doc.foto}" alt="${doc.nama}" class="dokter-avatar-img" onerror="this.src='img/Logo-pendampingan-pasien-penang.png';">
+                  <img src="/pendampingan-pasien-penang/${doc.foto}" 
+                       alt="${doc.nama}" 
+                       class="dokter-avatar-img" 
+                       onerror="this.onerror=null; this.src='/pendampingan-pasien-penang/img/Logo-pendampingan-pasien-penang.png';">
               </div>
               <h4 class="dokter-card-name">${doc.nama}</h4>
               <span class="hospital-cta-badge">Lihat Profil RS →</span>
