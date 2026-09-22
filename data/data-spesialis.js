@@ -5,7 +5,7 @@ const dataSpesialisDokter = [
     dokter: [
       {
         nama: "Dr. Mugilan Sundarajoo",
-        foto: "img/Northern-doctors/Dr--Mugilan-Sundarajoo.webp",
+        foto: "Northern-doctors/Dr--Mugilan-Sundarajoo.webp",
         link: "dokter/northern-hospital.html",
       },
       {
