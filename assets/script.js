@@ -285,7 +285,7 @@ document.addEventListener("DOMContentLoaded", () => {
                   <img src="${doc.foto}" 
                        alt="${doc.nama}" 
                        class="dokter-avatar-img" 
-                       onerror="this.onerror=null; this.src='/public_html/img/Logo-pendampingan-pasien-penang.png';">
+                       onerror="this.onerror=null; this.src='img/Logo-pendampingan-pasien-penang.png';">
               </div>
               <h4 class="dokter-card-name">${doc.nama}</h4>
               <span class="hospital-cta-badge">Lihat Profil RS →</span>
