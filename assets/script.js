@@ -282,7 +282,7 @@ document.addEventListener("DOMContentLoaded", () => {
       cardLink.innerHTML = `
           <div class="dokter-premium-card">
               <div class="avatar-frame-container">
-                  <img src="/img/${doc.foto}" 
+                  <img src="${doc.foto}" 
                        alt="${doc.nama}" 
                        class="dokter-avatar-img">
               </div>
