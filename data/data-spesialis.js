@@ -189,7 +189,7 @@ const dataSpesialisDokter = [
     dokter: [
       {
         nama: "Dr. Alan Ang Jin Soon",
-        foto: "img/dr--alan-ang-jin-soon.webp",
+        foto: "dr--alan-ang-jin-soon.webp",
         link: "",
       },
       {
