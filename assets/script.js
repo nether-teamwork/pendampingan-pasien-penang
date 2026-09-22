@@ -282,7 +282,11 @@ document.addEventListener("DOMContentLoaded", () => {
       cardLink.innerHTML = `
           <div class="dokter-premium-card">
               <div class="avatar-frame-container">
+<<<<<<< HEAD
                   <img src="/public_html/${doc.foto}" 
+=======
+                  <img src="${doc.foto}" 
+>>>>>>> 0fa28798af5e1d973eff561e52297a6271d69b95
                        alt="${doc.nama}" 
                        class="dokter-avatar-img" 
                        onerror="this.onerror=null; this.src='/public_html/img/Logo-pendampingan-pasien-penang.png';">
